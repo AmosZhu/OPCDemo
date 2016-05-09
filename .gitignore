@@ -234,3 +234,14 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+*.pre
+*.PS
+opc/opc.PRI
+*.PR
+*.PO
+*.PFI
+*.IAB
+*.WK3
+*.IAD
+*.IMB
+*.h
